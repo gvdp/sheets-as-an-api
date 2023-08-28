@@ -4,6 +4,7 @@
   functions = "netlify/functions"
   publish = "."
 
+# todo: this redirect doesnt seem to work
 [[redirects]]
   force = true
   from = '/'
@@ -29,7 +30,6 @@
 [template.environment]
   GOOGLE_CLIENT_ID = "change me"
   GOOGLE_CLIENT_SECRET = "change me"
-  ACCESS_TOKEN = "change me"
   REFRESH_TOKEN = "change me"
   REDIS_KEY = "change me"
   REDIS_HOST = "change me"

@@ -70,10 +70,11 @@ export const handler: Handler = async (event) => {
 
   let token = process.env.ACCESS_TOKEN
   const refreshToken = process.env.REFRESH_TOKEN as string
-
   if (!(token || refreshToken)) {
+    // todo: improve caching, after first login most pages keep redirecting to the authurl
     return {
       statusCode: 301,
+      // todo: this shouldn't redirect to localhost
       headers: {
         Location: createAuthUrl('http://localhost:8888', 'https://www.googleapis.com/auth/spreadsheets.readonly'),
         'Cache-Control': '',
