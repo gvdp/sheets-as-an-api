@@ -13,6 +13,7 @@ export const handler: Handler = async (event) => {
     const tokens = await fetchTokens(code, 'http://localhost:8888')
 
     // todo: also show link of page to go to test this
+    // todo: there needs to be a redeploy or some cache clearing before the token is correctly used as env variable
     return {
       statusCode: 200,
       body: `
