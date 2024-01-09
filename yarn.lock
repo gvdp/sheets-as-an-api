@@ -1533,6 +1533,11 @@ chalk@^4.0.0:
     ansi-styles "^4.1.0"
     supports-color "^7.1.0"
 
+change-case@^5.4.0:
+  version "5.4.0"
+  resolved "https://registry.yarnpkg.com/change-case/-/change-case-5.4.0.tgz#8b2220394af4faf2be926ded3d1a84421b53629a"
+  integrity sha512-11YRFf0f4pI+ROHUfq64WivyrcNSrZjdDt2qgVxvAObtj/Pwnu5uAKObHRbN9uAhaDFkvkqcKVEl8Dxnmx+N7w==
+
 char-regex@^1.0.2:
   version "1.0.2"
   resolved "https://registry.yarnpkg.com/char-regex/-/char-regex-1.0.2.tgz#d744358226217f981ed58f479b1d6bcc29545dcf"
@@ -3656,6 +3661,11 @@ shebang-regex@^3.0.0:
   version "3.0.0"
   resolved "https://registry.yarnpkg.com/shebang-regex/-/shebang-regex-3.0.0.tgz#ae16f1644d873ecad843b0307b143362d4c42172"
   integrity sha512-7++dFhtcx3353uBaq8DDR4NuxBetBzC7ZQOhmTQInHEd6bSrXdiEyzCvG07Z44UYdLShWUyXt5M/yhz8ekcb1A==
+
+sheets-as-an-api-functions@0.0.3:
+  version "0.0.3"
+  resolved "https://registry.yarnpkg.com/sheets-as-an-api-functions/-/sheets-as-an-api-functions-0.0.3.tgz#be88f475aa8fca4016ac7d5f73eabe28b51d12cc"
+  integrity sha512-5KuCtE5tFrNGVVXFPvgZj/DQFJFmQxQGZEca1EcH6WdrIaHfYJhae1F0LavJQRfY/LD73ZkAW+VdDkhC0XOu6w==
 
 side-channel@^1.0.4:
   version "1.0.4"
