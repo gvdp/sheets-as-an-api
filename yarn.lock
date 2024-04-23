@@ -3361,10 +3361,10 @@ shebang-regex@^3.0.0:
   resolved "https://registry.yarnpkg.com/shebang-regex/-/shebang-regex-3.0.0.tgz#ae16f1644d873ecad843b0307b143362d4c42172"
   integrity sha512-7++dFhtcx3353uBaq8DDR4NuxBetBzC7ZQOhmTQInHEd6bSrXdiEyzCvG07Z44UYdLShWUyXt5M/yhz8ekcb1A==
 
-sheets-as-an-api-functions@0.1.2:
-  version "0.1.2"
-  resolved "https://registry.yarnpkg.com/sheets-as-an-api-functions/-/sheets-as-an-api-functions-0.1.2.tgz#1e014e3eb89e0d2abbf249ae54c656fffb53e834"
-  integrity sha512-3rsD7xEZbG30PnBkl6n2K24EXSbHZb3LKyfM+ojceVZtaij7ZQuKovG/KOLqjIM6zmhxnwYVvXi5Y1znYSNtmA==
+sheets-as-an-api-functions@0.2.0:
+  version "0.2.0"
+  resolved "https://registry.yarnpkg.com/sheets-as-an-api-functions/-/sheets-as-an-api-functions-0.2.0.tgz#4e012521574b6d30c955795ab8f16483514fa62f"
+  integrity sha512-kXlOK00ZsrXY6CAWgjcWnQwfhydKjJkYzVxrMbX4fCYxt1IqOYXDNp9K6FECV+nzxAC6hJC6bPPKWUU+VtoIsA==
   dependencies:
     axios "1.6.2"
     change-case "5.2.0"

@@ -19,7 +19,7 @@
     "change-case": "5.4.0",
     "qs": "6.11.2",
     "redis": "4.6.8",
-    "sheets-as-an-api-functions": "0.1.2"
+    "sheets-as-an-api-functions": "0.2.0"
   },
   "volta": {
     "node": "20.11.0",
