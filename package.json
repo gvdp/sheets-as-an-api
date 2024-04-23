@@ -16,10 +16,10 @@
   "dependencies": {
     "@netlify/functions": "2.6.0",
     "camel-case": "4.1.2",
-    "change-case": "5.4.0",
+    "change-case": "5.4.4",
     "qs": "6.11.2",
     "redis": "4.6.8",
-    "sheets-as-an-api-functions": "0.2.0"
+    "sheets-as-an-api-functions": "0.2.1"
   },
   "volta": {
     "node": "20.11.0",
@@ -33,9 +33,9 @@
     "@babel/core": "7.22.17",
     "@babel/plugin-transform-modules-commonjs": "7.22.15",
     "@istanbuljs/nyc-config-typescript": "1.0.2",
-    "@types/jest": "29.5.4",
+    "@types/jest": "29.5.12",
     "@types/node": "20.10.7",
-    "@types/qs": "6.9.8",
+    "@types/qs": "6.9.15",
     "@typescript-eslint/eslint-plugin": "5.55.0",
     "@typescript-eslint/parser": "5.55.0",
     "babel-jest": "29.6.4",

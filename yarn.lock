@@ -858,10 +858,10 @@
   dependencies:
     "@types/istanbul-lib-report" "*"
 
-"@types/jest@29.5.4":
-  version "29.5.4"
-  resolved "https://registry.yarnpkg.com/@types/jest/-/jest-29.5.4.tgz#9d0a16edaa009a71e6a71a999acd582514dab566"
-  integrity sha512-PhglGmhWeD46FYOVLt3X7TiWjzwuVGW9wG/4qocPevXMjCmrIc5b6db9WjeGE4QYVpUAWMDv3v0IiBwObY289A==
+"@types/jest@29.5.12":
+  version "29.5.12"
+  resolved "https://registry.yarnpkg.com/@types/jest/-/jest-29.5.12.tgz#7f7dc6eb4cf246d2474ed78744b05d06ce025544"
+  integrity sha512-eDC8bTvT/QhYdxJAulQikueigY5AsdBRH2yDKW3yveW7svY3+DzN84/2NUgkw10RTiJbWqZrTtoGVdYlvFJdLw==
   dependencies:
     expect "^29.0.0"
     pretty-format "^29.0.0"
@@ -878,10 +878,10 @@
   dependencies:
     undici-types "~5.26.4"
 
-"@types/qs@6.9.8":
-  version "6.9.8"
-  resolved "https://registry.yarnpkg.com/@types/qs/-/qs-6.9.8.tgz#f2a7de3c107b89b441e071d5472e6b726b4adf45"
-  integrity sha512-u95svzDlTysU5xecFNTgfFG5RUWu1A9P0VzgpcIiGZA9iraHOdSzcxMxQ55DyeRaGCSxQi7LxXDI4rzq/MYfdg==
+"@types/qs@6.9.15":
+  version "6.9.15"
+  resolved "https://registry.yarnpkg.com/@types/qs/-/qs-6.9.15.tgz#adde8a060ec9c305a82de1babc1056e73bd64dce"
+  integrity sha512-uXHQKES6DQKKCLh441Xv/dwxOq1TVS3JPUMlEqoEglvlhR6Mxnlew/Xq/LRVHpLyk7iK3zODe1qYHIMltO7XGg==
 
 "@types/semver@^7.3.12":
   version "7.3.13"
@@ -1319,10 +1319,10 @@ change-case@5.2.0:
   resolved "https://registry.yarnpkg.com/change-case/-/change-case-5.2.0.tgz#6054e5400194d1a19fd90e136c2007daba62668d"
   integrity sha512-L6VzznESnMIKKdKhVzCG+KPz4+x1FWbjOs1AdhoHStV3qo8aySMRGPUoqC0aL1ThKaQNGhAu6ZfHL/QAyQRuiw==
 
-change-case@5.4.0:
-  version "5.4.0"
-  resolved "https://registry.yarnpkg.com/change-case/-/change-case-5.4.0.tgz#8b2220394af4faf2be926ded3d1a84421b53629a"
-  integrity sha512-11YRFf0f4pI+ROHUfq64WivyrcNSrZjdDt2qgVxvAObtj/Pwnu5uAKObHRbN9uAhaDFkvkqcKVEl8Dxnmx+N7w==
+change-case@5.4.4:
+  version "5.4.4"
+  resolved "https://registry.yarnpkg.com/change-case/-/change-case-5.4.4.tgz#0d52b507d8fb8f204343432381d1a6d7bff97a02"
+  integrity sha512-HRQyTk2/YPEkt9TnUPbOpr64Uw3KOicFWPVBb+xiHvd6eBx/qPr9xqfBFDT8P2vWsvvz4jbEkfDe71W3VyNu2w==
 
 char-regex@^1.0.2:
   version "1.0.2"
@@ -3361,10 +3361,10 @@ shebang-regex@^3.0.0:
   resolved "https://registry.yarnpkg.com/shebang-regex/-/shebang-regex-3.0.0.tgz#ae16f1644d873ecad843b0307b143362d4c42172"
   integrity sha512-7++dFhtcx3353uBaq8DDR4NuxBetBzC7ZQOhmTQInHEd6bSrXdiEyzCvG07Z44UYdLShWUyXt5M/yhz8ekcb1A==
 
-sheets-as-an-api-functions@0.2.0:
-  version "0.2.0"
-  resolved "https://registry.yarnpkg.com/sheets-as-an-api-functions/-/sheets-as-an-api-functions-0.2.0.tgz#4e012521574b6d30c955795ab8f16483514fa62f"
-  integrity sha512-kXlOK00ZsrXY6CAWgjcWnQwfhydKjJkYzVxrMbX4fCYxt1IqOYXDNp9K6FECV+nzxAC6hJC6bPPKWUU+VtoIsA==
+sheets-as-an-api-functions@0.2.1:
+  version "0.2.1"
+  resolved "https://registry.yarnpkg.com/sheets-as-an-api-functions/-/sheets-as-an-api-functions-0.2.1.tgz#7da037af316cc8fa15e23e985136d9cebbfd1e2f"
+  integrity sha512-dLbOpa5oe7LIkAgJEWdv9Y5b+P5HWuZDz6TnhYisIjySBHvolnsTd6zj77x4pOi5tU0l9R2Nzto44rO0xwKqyg==
   dependencies:
     axios "1.6.2"
     change-case "5.2.0"
