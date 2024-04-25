@@ -1,6 +1,10 @@
 // todo: this should be configurable pre template clone, not included here
 
 export const SHEET_IDS: Record<string, { name: string; sheetID: string }> = {
+  U16M_bis: {
+    sheetID: '14EV9ipFOtblZsBQ0MhNxJgw9bIPBerDibYqIPeDDkQs',
+    name: 'Meisjes U16 (alt)',
+  },
   U16M: {
     sheetID: '1iRk0TpBAFZ2rB5S3uoi_U_4MYADaoFCoT3LLcYq_6nY',
     name: 'Meisjes U16',
