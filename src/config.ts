@@ -17,6 +17,14 @@ export const SHEET_IDS: Record<string, { name: string; sheetID: string }> = {
     sheetID: '1-o5CXpCH9WQ37jHQQGvYAWJZjxU3sVAEyfvDH-p7ESE',
     name: 'Meisjes U9',
   },
+  H6V6: {
+    sheetID: '1mF_frLo2LJNzxTtPiEaYajdwoBhcSDMYxMZP3Q8VwYc',
+    name: '6 Tegen 6 Heren',
+  },
+  D6V6: {
+    sheetID: '1xZwTAAAAV_kbdpL7w76lZFAZNRvfJMFKTbAMwH8uZeA',
+    name: '6 Tegen 6 Dames',
+  },
   // U16M: {
   //   sheetID: '1iRk0TpBAFZ2rB5S3uoi_U_4MYADaoFCoT3LLcYq_6nY',
   //   name: 'Meisjes U16',
