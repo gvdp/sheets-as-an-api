@@ -1,18 +1,30 @@
 // todo: this should be configurable pre template clone, not included here
 
 export const SHEET_IDS: Record<string, { name: string; sheetID: string }> = {
-  U16M_bis: {
-    sheetID: '14EV9ipFOtblZsBQ0MhNxJgw9bIPBerDibYqIPeDDkQs',
-    name: 'Meisjes U16 (alt)',
-  },
   U16M: {
-    sheetID: '1iRk0TpBAFZ2rB5S3uoi_U_4MYADaoFCoT3LLcYq_6nY',
+    sheetID: '14EV9ipFOtblZsBQ0MhNxJgw9bIPBerDibYqIPeDDkQs',
     name: 'Meisjes U16',
   },
   U13M: {
-    sheetID: '1NCIcPN7ZX4p8nX9FnvfZuFY6OW8_RQ6eun82Ov7bR2o',
+    sheetID: '1yJx9AiPBLYknWg1u1CPHvKFEYGt4m7JViSju6LjZhog',
     name: 'Meisjes U13',
   },
+  U11M: {
+    sheetID: '1Gf0_pyS4CGzrqXWBPQmSOoSZA3_4c_nahaL7LcBwmuQ',
+    name: 'Meisjes U11',
+  },
+  U9M: {
+    sheetID: '1-o5CXpCH9WQ37jHQQGvYAWJZjxU3sVAEyfvDH-p7ESE',
+    name: 'Meisjes U9',
+  },
+  // U16M: {
+  //   sheetID: '1iRk0TpBAFZ2rB5S3uoi_U_4MYADaoFCoT3LLcYq_6nY',
+  //   name: 'Meisjes U16',
+  // },
+  // U13M: {
+  //   sheetID: '1NCIcPN7ZX4p8nX9FnvfZuFY6OW8_RQ6eun82Ov7bR2o',
+  //   name: 'Meisjes U13',
+  // },
   // ZES: {
   //   sheetID: '1rc0th8HpglQgUVXRRoK_BbtseT925JYkchFB-bWrtds',
   //   name: '6 Tegen 6',
