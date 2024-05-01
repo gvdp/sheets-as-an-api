@@ -37,10 +37,10 @@ export const SHEET_IDS: Record<string, { name: string; sheetID: string }> = {
   //   sheetID: '1rc0th8HpglQgUVXRRoK_BbtseT925JYkchFB-bWrtds',
   //   name: '6 Tegen 6',
   // },
-  // TEST: {
-  //   name: 'TEST',
-  //   sheetID: '156ZGnMtCQFmDbQHx4KO_ane9IFnu9Cfx1fHJFX98uQ4',
-  // },
+  TEST: {
+    name: 'TEST',
+    sheetID: '156ZGnMtCQFmDbQHx4KO_ane9IFnu9Cfx1fHJFX98uQ4',
+  },
   // ALGEMEEN: {
   //   name: 'ALGEMEEN',
   //   sheetID: '1GCIsLxqqKZZwy0vQ3NmwTrjclV6DCdKionf_dq9R_Zo',
