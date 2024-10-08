@@ -26,9 +26,6 @@ describe('sheet call', () => {
           url: '/sheet/TEST/Teams',
         },
         {
-          url: '/sheet/TEST/Result',
-        },
-        {
           url: '/sheet/TEST/Plaatsing%20Stand',
         },
         {
@@ -105,9 +102,6 @@ describe('sheet call', () => {
         },
         {
           url: '/sheet/TEST/Teams',
-        },
-        {
-          url: '/sheet/TEST/Result',
         },
         {
           url: '/sheet/TEST/Plaatsing%20Stand',
