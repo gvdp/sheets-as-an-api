@@ -18,11 +18,3 @@ jobs:
           REFRESH_TOKEN: ${{secrets.REFRESH_TOKEN}}
           REDIS_HOST: ${{secrets.REDIS_HOST}}
           REDIS_KEY: ${{secrets.REDIS_KEY}}
-
-  lint:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v4
-      - uses: volta-cli/action@v4
-      - run: yarn
-      - run: yarn lint

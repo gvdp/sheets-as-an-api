@@ -1,4 +1,4 @@
-// todo: this should be configurable pre template clone, not included here
+// todo: this should be configurable per template clone, not included here
 
 export const SHEET_IDS: Record<string, { name: string; sheetID: string }> = {
   U16M: {
