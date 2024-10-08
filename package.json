@@ -19,9 +19,10 @@
     "redis": "4.6.8",
     "sheets-as-an-api-functions": "0.2.1"
   },
+  "packageManager": "pnpm@9.12.0",
   "volta": {
-    "node": "20.11.0",
-    "yarn": "1.22.19"
+    "node": "20.11.1",
+    "pnpm": "9.12.0"
   },
   "lint-staged": {
     "*": "prettier --write"
