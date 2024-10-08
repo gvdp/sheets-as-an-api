@@ -27,12 +27,8 @@ export const SHEET_IDS: Record<string, { name: string; sheetID: string }> = {
   },
   TEST: {
     name: 'TEST',
-    sheetID: '156ZGnMtCQFmDbQHx4KO_ane9IFnu9Cfx1fHJFX98uQ4',
+    sheetID: '1yZhUeE23mL1dlikzuPfx6QNSI24G0BmgPU65wdiJMNI',
   },
-  // ALGEMEEN: {
-  //   name: 'ALGEMEEN',
-  //   sheetID: '1GCIsLxqqKZZwy0vQ3NmwTrjclV6DCdKionf_dq9R_Zo',
-  // },
   U6: { name: 'U6', sheetID: '1CxzMqPn636__xP_OxWBBFmYusM1YBz_60kJXgc_ioaQ' },
   U7: { name: 'U7', sheetID: '1rzP6TL9hLl8wXl_HOlTf6NE_Ajvrbll4WubaeIFU3ew' },
   U8: { name: 'U8', sheetID: '1Eeu0lO7Bk1WeBR_sUqBLIcZp1w-Z0OPJ6XYyo0IHu1o' },
