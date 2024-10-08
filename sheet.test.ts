@@ -20,13 +20,22 @@ describe('sheet call', () => {
     expect(res).toEqual({
       sheets: [
         {
+          url: '/sheet/TEST/Info',
+        },
+        {
           url: '/sheet/TEST/Teams',
         },
         {
           url: '/sheet/TEST/Result',
         },
         {
+          url: '/sheet/TEST/Plaatsing%20Stand',
+        },
+        {
           url: '/sheet/TEST/Group%20Games',
+        },
+        {
+          url: '/sheet/TEST/Per%20team',
         },
         {
           url: '/sheet/TEST/Knockout%20Games',
@@ -38,7 +47,7 @@ describe('sheet call', () => {
           url: '/sheet/TEST/Calculate%20Knockout',
         },
         {
-          url: '/sheet/TEST/Per%20team',
+          url: '/sheet/TEST/Result',
         },
       ],
     })
