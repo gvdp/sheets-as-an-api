@@ -9,7 +9,6 @@
     "start": "BROWSER=none netlify dev",
     "format": "prettier --write .",
     "test": "jest",
-    "test:coverage": "nyc --require ts-node/register start-server-and-test start http://localhost:8888/sheet test",
     "test:watch": "jest --watch"
   },
   "dependencies": {
@@ -30,7 +29,6 @@
   "devDependencies": {
     "@babel/core": "7.22.17",
     "@babel/plugin-transform-modules-commonjs": "7.22.15",
-    "@istanbuljs/nyc-config-typescript": "1.0.2",
     "@types/jest": "29.5.12",
     "@types/node": "20.10.7",
     "@types/qs": "6.9.15",
@@ -38,7 +36,6 @@
     "husky": "8.0.3",
     "jest": "29.6.4",
     "lint-staged": "14.0.1",
-    "nyc": "15.1.0",
     "prettier": "3.0.3",
     "source-map-support": "0.5.21",
     "start-server-and-test": "2.0.0",
