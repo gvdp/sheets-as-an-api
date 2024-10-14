@@ -14,7 +14,7 @@
     "prepare": "husky"
   },
   "dependencies": {
-    "@netlify/functions": "2.6.0",
+    "@netlify/functions": "2.8.2",
     "change-case": "5.4.4",
     "qs": "6.11.2",
     "redis": "4.6.8",
