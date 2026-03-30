@@ -16,7 +16,7 @@
   "dependencies": {
     "@netlify/functions": "2.6.0",
     "change-case": "5.4.4",
-    "qs": "6.11.2",
+    "qs": "6.14.2",
     "redis": "4.6.8",
     "sheets-as-an-api-functions": "0.2.1"
   },
